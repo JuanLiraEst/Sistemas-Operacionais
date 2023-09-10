@@ -5,7 +5,7 @@ O input deve ser feito (no cmd do cliente) seguindo a estrutura abaixo:
   operação:valor1:valor2
 
   as operações possíveis para nosso código são
-    soma\n
+    soma<br>
     subtrai
     multiplica
     divide
