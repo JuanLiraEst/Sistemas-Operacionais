@@ -1,10 +1,10 @@
 # Cliente Servidor Math 
 Para executar, basta navegar pelo cmd até a pasta do projeto, então finalizar executando os arquivos *servidor.java*, e depois *cliente.java*
 
-O input deve ser feito (no cmd do cliente) seguindo a estrutura abaixo:
+O input deve ser feito (no cmd do cliente) seguindo a estrutura abaixo:<br>
   operação:valor1:valor2
 
-  as operações possíveis para nosso código são:<br>
+  As operações possíveis para nosso código são:<br>
     soma<br>
     subtrai<br>
     multiplica<br>
