@@ -4,13 +4,13 @@ Para executar, basta navegar pelo cmd até a pasta do projeto, então finalizar 
 O input deve ser feito (no cmd do cliente) seguindo a estrutura abaixo:
   operação:valor1:valor2
 
-  as operações possíveis para nosso código são
+  as operações possíveis para nosso código são:<br>
     soma<br>
-    subtrai
-    multiplica
-    divide
-    expoente (sendo o primeiro valor a base, e o segundo, expoente)
-    porcentagem (sendo o primeiro valor a porcentagem do segundo)
+    subtrai<br>
+    multiplica<br>
+    divide<br>
+    expoente (sendo o primeiro valor a base, e o segundo, expoente)<br>
+    porcentagem (sendo o primeiro valor a porcentagem do segundo)<br>
   
 
 # Servidor.java
